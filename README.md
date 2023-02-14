@@ -1,5 +1,5 @@
 # BattleshipCodeCoverage
-Battleship game
+Battleship game;
 
 This Java code aims to support ES1 lecture about white-box testing and code coverage.
 
